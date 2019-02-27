@@ -5,7 +5,7 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 
 We are using "Issues" as our list of proposed topics. To propose a topic you would either like to say something about, or that you would like to learn more about, add an "Issue". 
 
-To vote on which topics you would like to see discussed at the unconference, flag an issue with a thumbs-up.
+To vote on which topics you would like to see discussed at the unconference, flag an issue with a thumbs-up. You can also leave comments if you would like to co-present a topic.
 
 Submit topic recommendations sooner rather than later to give attendees the opportunity to vote. Whichever topics have the most thumbs-ups by 12:00PM PDT on Thursday, March 21 will be assigned dedicated time slots at the unconference on Friday, March 22. 
 
