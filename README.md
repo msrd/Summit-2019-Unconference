@@ -16,8 +16,8 @@ We will upload related materials into the repository. Each topic will gets its o
 ## Rules of RD Unconference
 
 1.  Talk about RD Unconference. Document and share your learnings from each session with the group. This means no NDA content! It is a violation of your RD NDA to discuss confidential material learned earlier in the week at MVP or RD Summit outside of the forum from where it was delivered by a Microsoft employee. 
-2.  Collaborate - we want conversations not lecture-style presentations. Submit your name and topic through the Summit 2019 Unconference GitHub repo by 12:00PM PDT on March 21 to be considered.  
-3.  Vote for topics in the GitHub repo that interest you by 12:00PM PDT on March 21. We'll hold as many sessions as time and facilities allow for. The most popular topics will be assigned conference rooms, all others can spread out within the Reactor space.
+2.  Collaborate - we want conversations, not lecture-style presentations. Submit an "Issue" with your name and topic recommendation through the RD Summit 2019 Unconference GitHub repo by 12:00PM PDT on March 21 to be considered.  
+3.  Vote for topics in the GitHub repo that interest you by 12:00PM PDT on March 21. We'll hold as many sessions as time and facilities allow. The most popular topics will be assigned conference rooms, all others can spread out within the Reactor space.
 4.  Present, ask questions, spark conversations, and be an interactive participant. No tourists - we encourage everyone to participate in some way, shape, or form. 
 5.  Make space for others. Everyone should feel heard and like they had the opportunity to contribute.
 6. Follow the Law of Two Feet. If you aren't inspired by a session or don't feel you can contribute, feel free to leave and find a different session. 
