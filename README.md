@@ -5,7 +5,7 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 
 We are using "Issues" as our list of proposed topics. To propose a topic you would either like to say something about, or that you would like to learn more about, add an "Issue". Note that currently sessions are slated for 50 minutes each.
 
-To vote on which topics you would like to see discussed at the unconference, flag an issue with a thumbs-up. 
+To vote on which topics you would like to see discussed at the unconference, flag an issue with a thumbs-up:
 
 ![How to upvote a session](GitHubCapture1.png)
 
