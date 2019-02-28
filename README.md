@@ -21,4 +21,4 @@ We will upload related materials into the repository. Each topic will gets its o
 4.  **Present, ask questions, spark conversations, and be an interactive participant.** No tourists - we encourage everyone to participate in some way, shape, or form. 
 5.  **Make space for others.** Everyone should feel heard, respected, and like they had the opportunity to contribute.
 6. **Follow the Law of Two Feet.** If you aren't inspired by a session or don't feel you can contribute, feel free to leave and find a different session. 
-7.  **Be flexible.** Sessions will go on as long as they have to or until they run into another session slot. If the session only runs for 30 minutes of its 50 minute timeslot, feel free to change topics or break early and join another session! 
+7.  **Be flexible.** Sessions will go on as long as they have to or until they run into another session slot. Sessions are slated for 50 minutes each, but if the session only runs for 30 minutes, feel free to change topics or break early and join another session! 
