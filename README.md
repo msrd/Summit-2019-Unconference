@@ -3,7 +3,7 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 
 ## Topics and Proposals
 
-We are using "Issues" as our list of proposed topics. To propose a topic you would either like to say something about, or that you would like to learn more about, add an "Issue". 
+We are using "Issues" as our list of proposed topics. To propose a topic you would either like to say something about, or that you would like to learn more about, add an "Issue". Note that currently sessions are slated for 50 minutes each.
 
 To vote on which topics you would like to see discussed at the unconference, flag an issue with a thumbs-up. You can also leave comments if you would like to co-present a topic.
 
