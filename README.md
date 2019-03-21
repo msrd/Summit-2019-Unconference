@@ -4,7 +4,7 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 ## Agenda (Tentative)
 
 
-| Time Slot       | Great Room    | White         | Goodman       |
+| Time Slot       | Big Zone      | Great Room    | White         |
 |-----------------|---------------|---------------|---------------|
 | 7:00am-8:00am   | *--breakfast--* | *--breakfast--* | *--breakfast--* |
 | 8:00am-8:50am   | **RD Program and Visibility** | **Microsoft Support in Community Events** | **Building Software That Lasts & Legacy Technologies** |
