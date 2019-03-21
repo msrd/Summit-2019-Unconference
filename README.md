@@ -4,7 +4,7 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 ## Agenda (Tentative)
 
 
-|                 | Big Zone      | Great Room    | White         |
+| Time            | Big Zone      | Great Room    | White         |
 |-----------------|---------------|---------------|---------------|
 | 7:00am-8:00am   | *--breakfast--* | *--breakfast--* | *--breakfast--* |
 | 8:00am-8:50am   | **RD Program and Visibility** ([#11](https://github.com/msrd/Summit-2019-Unconference/issues/11) - [#33](https://github.com/msrd/Summit-2019-Unconference/issues/33))<br/>*Benjamin Niaulin, Oleksandr Krakovetskyi* | **Microsoft Support in Community Events** ([#26](https://github.com/msrd/Summit-2019-Unconference/issues/26))<br/>*Christian Buckley* | **Building Software That Lasts & Legacy Technologies** ([#21](https://github.com/msrd/Summit-2019-Unconference/issues/21) - [#25](https://github.com/msrd/Summit-2019-Unconference/issues/25))<br/>*Stavros Menegos, Rainer Stropek* |
