@@ -7,13 +7,13 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 | Time Slot       | Big Zone      | Great Room    | White         |
 |-----------------|---------------|---------------|---------------|
 | 7:00am-8:00am   | *--breakfast--* | *--breakfast--* | *--breakfast--* |
-| 8:00am-8:50am   | **RD Program and Visibility** | **Microsoft Support in Community Events** | **Building Software That Lasts & Legacy Technologies** |
+| 8:00am-8:50am   | **RD Program and Visibility**<br/>*Benjamin Niaulin, Oleksandr Krakovetskyi * | **Microsoft Support in Community Events**<br/>*Christian Buckley* | **Building Software That Lasts & Legacy Technologies**<br/>*Stavros Menegos, Rainer Stropek* |
 |                 | *--break--*     | *--break--*     | *--break--*     |
-| 9:00am-9:50am   | **Microsoft AI**<br>*Stefano Tempesta, Stan Schultes, Oleksandr Krakovetskyi* | **RDs as Industry Analysts** | **Staying Positive as a Windows Client Developer** |
+| 9:00am-9:50am   | **Microsoft AI**<br/>*Stefano Tempesta, Stan Schultes, Oleksandr Krakovetskyi* | **RDs as Industry Analysts**<br/>*Andrew Brust* | **Staying Positive as a Windows Client Developer**<br/>*Johan Lindfors* |
 |                 | *--break--*     | *--break--*     | *--break--*     |
-| 10:00am-10:50am | **The Future of RD Discussions** | **Physical Wellbeing** | **Values, Goals, and Ultimate Truths** |
+| 10:00am-10:50am | **The Future of RD Discussions**<br/>*Markus Egger* | **Physical Wellbeing**<br/>*Magnus Mårtensson* | **Values, Goals, and Ultimate Truths**<br/>*Dr. Neil* |
 |                 | *--break--*     | *--break--*     | *--break--*     |
-| 11:00am-12:00pm | **Presenting Well** | **Cybersecurity Panel** | **Programming for Kids** |
+| 11:00am-12:00pm | **Presenting Well**<br/>*Markus Egger, Magnus Mårtensson* | **Cybersecurity Panel**<br/>*Brian Toronto, Patrick Hynds* | **Programming for Kids**<br/>*Johan Lindfors* |
 | 12:00pm-1:00pm  | *--lunch--*     | *--lunch--*     | *--lunch--*     |
 
 
