@@ -7,7 +7,7 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 | Time Slot       | Great Room    | White         | Goodman       |
 |-----------------|---------------|---------------|---------------|
 | 7:00am-8:00am   | *--breakfast--* | *--breakfast--* | *--breakfast--* |
-| 8:00am-8:50am   | RD Program and Visibility | Microsot Support in Community Events | Building Software That Lasts & Legacy Technologies |
+| 8:00am-8:50am   | RD Program and Visibility | Microsoft Support in Community Events | Building Software That Lasts & Legacy Technologies |
 | 8:50am-9:00am   | *--break--*     | *--break--*     | *--break--*     |
 | 9:00am-9:50am   | Presenting Well | RDs as Industry Analysts | Staying Positive as a Windows Client Developer |
 | 9:50am-10:00am  | *--break--*     | *--break--*     | *--break--*     |
