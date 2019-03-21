@@ -1,8 +1,9 @@
 # RD-Summit-2019-Unconference
 This repository is used to submit and vote on unconference sessions/topics. It is also used to upload related materials.
 
-## Agenda (Tentative)
+## Agenda
 
+The RD Unconference takes place at the Reactor (Building 20).
 
 | Time            | Big Zone      | Great Room    | White         |
 |-----------------|---------------|---------------|---------------|
