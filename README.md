@@ -1,6 +1,23 @@
 # RD-Summit-2019-Unconference
 This repository is used to submit and vote on unconference sessions/topics. It is also used to upload related materials.
 
+## Agenda
+
+
+| Time Slot       | Great Room    | White         | Goodman       |
+|-----------------|---------------|---------------|---------------|
+| 7:00am-8:00am   | *--breakfast--* | *--breakfast--* | *--breakfast--* |
+| 8:00am-8:50am   |               |               |               |
+| 8:50am-9:00am   | *--break--*     | *--break--*     | *--break--*     |
+| 9:00am-9:50am   |               |               |               |
+| 9:50am-10:00am  | *--break--*     | *--break--*     | *--break--*     |
+| 10:00am-10:50am |               |               |               |
+| 10:50am-11:00am | *--break--*     | *--break--*     | *--break--*     |
+| 11:00am-12:00am |               |               |               |
+| 12:00am-1:00am  | *--lunch--*     | *--lunch--*     | *--lunch--*     |
+
+
+
 ## Topics and Proposals
 
 We are using "Issues" as our list of proposed topics. To propose a topic you would either like to say something about, or that you would like to learn more about, add an "Issue". Note that currently sessions are slated for 50 minutes each.
