@@ -9,7 +9,7 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 | 7:00am-8:00am   | *--breakfast--* | *--breakfast--* | *--breakfast--* |
 | 8:00am-8:50am   | **RD Program and Visibility** | **Microsoft Support in Community Events** | **Building Software That Lasts & Legacy Technologies** |
 |                 | *--break--*     | *--break--*     | *--break--*     |
-| 9:00am-9:50am   | **Microsoft AI** | **RDs as Industry Analysts** | **Staying Positive as a Windows Client Developer** |
+| 9:00am-9:50am   | **Microsoft AI**<br>*Stefano Tempesta, Stan Schultes, Oleksandr Krakovetskyi* | **RDs as Industry Analysts** | **Staying Positive as a Windows Client Developer** |
 |                 | *--break--*     | *--break--*     | *--break--*     |
 | 10:00am-10:50am | **The Future of RD Discussions** | **Physical Wellbeing** | **Values, Goals, and Ultimate Truths** |
 |                 | *--break--*     | *--break--*     | *--break--*     |
