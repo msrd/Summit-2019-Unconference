@@ -7,14 +7,14 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 | Time Slot       | Great Room    | White         | Goodman       |
 |-----------------|---------------|---------------|---------------|
 | 7:00am-8:00am   | *--breakfast--* | *--breakfast--* | *--breakfast--* |
-| 8:00am-8:50am   |               |               |               |
+| 8:00am-8:50am   | RD Program and Visibility |               |               |
 | 8:50am-9:00am   | *--break--*     | *--break--*     | *--break--*     |
-| 9:00am-9:50am   |               |               |               |
+| 9:00am-9:50am   | Presenting Well |               |               |
 | 9:50am-10:00am  | *--break--*     | *--break--*     | *--break--*     |
-| 10:00am-10:50am |               |               |               |
+| 10:00am-10:50am | The Future of RD Discussions |               |               |
 | 10:50am-11:00am | *--break--*     | *--break--*     | *--break--*     |
-| 11:00am-12:00am |               |               |               |
-| 12:00am-1:00am  | *--lunch--*     | *--lunch--*     | *--lunch--*     |
+| 11:00am-12:00pm | Microsoft AI |               |               |
+| 12:00pm-1:00pm  | *--lunch--*     | *--lunch--*     | *--lunch--*     |
 
 
 
