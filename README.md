@@ -7,7 +7,7 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 | Time            | Big Zone      | Great Room    | White         |
 |-----------------|---------------|---------------|---------------|
 | 7:00am-8:00am   | *--breakfast--* | *--breakfast--* | *--breakfast--* |
-| 8:00am-8:10am   | Opening Remarks, Mary Kate and Markus |
+| 8:00am-8:10am   | **Opening Remarks**<br/>*Mary Kate and Markus* |  |  |
 | 8:10am-9:00am   | **RD Program and Visibility** ([#11](https://github.com/msrd/Summit-2019-Unconference/issues/11) - [#33](https://github.com/msrd/Summit-2019-Unconference/issues/33))<br/>*Benjamin Niaulin, Oleksandr Krakovetskyi* | **Microsoft Support in Community Events** ([#26](https://github.com/msrd/Summit-2019-Unconference/issues/26))<br/>*Christian Buckley* | **Building Software That Lasts & Legacy Technologies** ([#21](https://github.com/msrd/Summit-2019-Unconference/issues/21) - [#25](https://github.com/msrd/Summit-2019-Unconference/issues/25))<br/>*Stavros Menegos, Rainer Stropek* |
 |                 | *--break--*     | *--break--*     | *--break--*     |
 | 9:10am-10:00am   | **Microsoft AI** ([#2](https://github.com/msrd/Summit-2019-Unconference/issues/2) - [#8](https://github.com/msrd/Summit-2019-Unconference/issues/8) - [#32](https://github.com/msrd/Summit-2019-Unconference/issues/32))<br/>*Stefano Tempesta, Stan Schultes, Oleksandr Krakovetskyi* | **RDs as Industry Analysts** ([#23](https://github.com/msrd/Summit-2019-Unconference/issues/23))<br/>*Andrew Brust* | **Staying Positive as a Windows Client Developer** ([#6](https://github.com/msrd/Summit-2019-Unconference/issues/6))<br/>*Johan Lindfors* |
