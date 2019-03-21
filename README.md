@@ -7,7 +7,7 @@ This repository is used to submit and vote on unconference sessions/topics. It i
 | Time Slot       | Big Zone      | Great Room    | White         |
 |-----------------|---------------|---------------|---------------|
 | 7:00am-8:00am   | *--breakfast--* | *--breakfast--* | *--breakfast--* |
-| 8:00am-8:50am   | **RD Program and Visibility**<br/>*Benjamin Niaulin, Oleksandr Krakovetskyi * | **Microsoft Support in Community Events**<br/>*Christian Buckley* | **Building Software That Lasts & Legacy Technologies**<br/>*Stavros Menegos, Rainer Stropek* |
+| 8:00am-8:50am   | **RD Program and Visibility**<br/>*Benjamin Niaulin, Oleksandr Krakovetskyi* | **Microsoft Support in Community Events**<br/>*Christian Buckley* | **Building Software That Lasts & Legacy Technologies**<br/>*Stavros Menegos, Rainer Stropek* |
 |                 | *--break--*     | *--break--*     | *--break--*     |
 | 9:00am-9:50am   | **Microsoft AI**<br/>*Stefano Tempesta, Stan Schultes, Oleksandr Krakovetskyi* | **RDs as Industry Analysts**<br/>*Andrew Brust* | **Staying Positive as a Windows Client Developer**<br/>*Johan Lindfors* |
 |                 | *--break--*     | *--break--*     | *--break--*     |
